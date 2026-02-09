@@ -1,0 +1,30 @@
+{
+  "roles": [
+    {
+      "name": "Klaslokaal (Standaard)",
+      "folderId": "1E-ukCgf8J276w85h25huZ4g0s5OoFdRk",
+      "slideInterval": 30,
+      "overlayText": ""
+    },
+    {
+      "name": "Restaurant",
+      "folderId": "1B8wNLGPUXHqjoVefuGRWyduAGh2F1MGM",
+      "slideInterval": 10,
+      "overlayText": "",
+      "password": ""
+    },
+    {
+      "name": "Vergaderzaal",
+      "folderId": "1rl_FIY8OEuUcIIm36QM3_zdGfUBoS_I8",
+      "slideInterval": 10,
+      "overlayText": "WiFi: Gast | WW: Jopie-School",
+      "password": ""
+    },
+    {
+      "name": "Onthaal",
+      "folderId": "1oBMW2L-KqM8Q6PQGpTv0y0syyYPlr9Rn",
+      "slideInterval": 10,
+      "overlayText": "Welkom op onze school"
+    }
+  ]
+}
